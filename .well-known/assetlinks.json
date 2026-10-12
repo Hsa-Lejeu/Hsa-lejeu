@@ -3,6 +3,7 @@
       "target": {
         "namespace": "android_app",
         "package_name": "io.github.hsa_lejeu.twa",
-        "sha256_cert_fingerprints": ["A3:F4:E4:75:2E:11:3B:14:17:5E:3F:A1:08:21:08:04:A7:28:CB:01:F6:68:56:98:67:42:9D:CD:D5:92:C7:69"]
+        "sha256_cert_fingerprints": ["5F:38:A5:CF:FC:19:B9:BA:6B:E5:3F:BA:4D:11:38:94:DE:B1:C7:7F:85:31:D9:0F:0D:07:B0:C1:40:46:00:0F"]
       }
     }]
+
